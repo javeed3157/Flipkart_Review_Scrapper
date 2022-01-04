@@ -47,6 +47,7 @@ class FlipkratScrapper:
         except Exception as e:
             raise Exception(f"(getCurrentWindowUrl) - Something went wrong on retrieving current url.\n" + str(e))
 
+
     def getLocatorsObject(self):
         """
         This function initializes the Locator object and returns the locator object
