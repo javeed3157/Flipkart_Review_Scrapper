@@ -161,3 +161,7 @@
 2022-01-13 21:50:16,885:INFO:flipkrat.py:Url hitted
 2022-01-13 21:50:17,027:INFO:flipkrat.py:login popup handled
 2022-01-13 21:50:17,365:INFO:flipkrat.py:Search begins for Raybanglasses
+2022-02-11 15:24:19,594:INFO:flipkrat.py:Url hitted
+2022-02-11 15:24:19,743:INFO:flipkrat.py:login popup handled
+2022-02-11 15:24:19,990:INFO:flipkrat.py:Search begins for sg-bat
+2022-02-11 15:24:41,064:INFO:flipkrat.py:Thread run completed
