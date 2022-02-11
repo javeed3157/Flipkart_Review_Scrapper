@@ -149,4 +149,5 @@ def create_figure():
     return fig
 
 if __name__ == "__main__":
+    app.debug = True
     app.run()  # running the app on the local machine on port 8000
